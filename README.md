@@ -11,3 +11,10 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [Sonoteller](https://sonoteller.ai/) - Song analysis, lyrics analysis and music analysis.
   
+## AI music processors
+
+- [LANDR](https://www.landr.com/) - Samples, plugins, distribution and AI mastering engine.
+
+## Distribution
+
+- [DistroKid](https://distrokid.com/) - Distribution app.
