@@ -7,6 +7,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 - [Suno AI](https://www.suno.ai/) - Anyone can make great music. No instrument needed, just imagination. From your mind to music.
 - [Udio](https://www.udio.com/) - Discover, create, and share music with the world.
 - [Producer](https://www.producer.ai/) - A generative AI instrument for creating, remixing, and sharing studio-quality songs from prompts.
+- [Sonauto]([Sonaut](https://sonauto.ai) - AI music generator with lyrics.
 
 ## AI music analysis
 
