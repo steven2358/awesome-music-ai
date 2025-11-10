@@ -13,6 +13,13 @@ A curated list of AI tools for music composition, generation, and analysis.
 - [Minimax Audio](https://www.minimax.io/audio/music) - AI music generator.
 - [Mubert](https://mubert.com) - AI music generator.
 - [Tempolor](https://www.tempolor.com) - AI music generator for royalty-free tracks.
+- [Beatoven](https://www.beatoven.ai) - Create original background music.
+- [MusicGPT](https://musicgpt.com) - AI music generator.
+- [Stable Audio](https://stableaudio.com) - Generative AI for music and sound effects.
+- [Eleven Labs Music](https://elevenlabs.io/music) - AI music generator.
+- [Soundverse](https://www.soundverse.ai/?tool=ai-song-generator) - AI music generator.
+- [Boomy](https://boomy.com) - AI music creation platform for instantly generating original songs.
+- [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally. #opensource
 
 ## AI music analysis
 
