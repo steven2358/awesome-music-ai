@@ -20,6 +20,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 - [Soundverse](https://www.soundverse.ai/?tool=ai-song-generator) - AI music generator.
 - [Boomy](https://boomy.com) - AI music creation platform for instantly generating original songs.
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally. #opensource
+- [AIVA](https://www.aiva.ai/) - Personal AI music generation assistant.
 
 ## AI music analysis
 
