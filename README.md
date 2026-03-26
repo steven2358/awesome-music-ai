@@ -32,6 +32,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [LANDR](https://www.landr.com/) - Samples, plugins, distribution and AI mastering engine.
 - [Moises](https://moises.ai/) - Remove vocals, separate instruments, master your tracks, and remix songs with the power of AI.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
 
 ## Distribution
 
