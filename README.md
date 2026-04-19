@@ -27,7 +27,12 @@ A curated list of AI tools for music composition, generation, and analysis.
 ## AI music analysis
 
 - [Sonoteller](https://sonoteller.ai/) - Song analysis, lyrics analysis and music analysis.
-  
+- [AceTagGen Prompt Scorer](https://acetaggen.com/tools/prompt-scorer) - Free 100-point scorer for Suno AI prompts across 4 metrics (length, tag collisions, specificity, density). Also a [public API](https://acetaggen.com/api/suno-score) and [open-source JS/TS library](https://github.com/shaizadok92/suno-prompt-scorer).
+
+## Prompt building tools
+
+- [AceTagGen](https://acetaggen.com) - Free structured prompt builder for Suno AI. 3,000+ tested tags in a 12-step questionnaire that assembles Suno-ready prompts respecting the 200-character Style limit. Includes built-in quality score.
+
 ## AI music processors
 
 - [LANDR](https://www.landr.com/) - Samples, plugins, distribution and AI mastering engine.
