@@ -28,6 +28,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 ## AI music analysis
 
 - [Sonoteller](https://sonoteller.ai/) - Song analysis, lyrics analysis and music analysis.
+- [Suede Creator Skills](https://jasoncolapietro.github.io/suede-creator-skills/) - Free Codex and Claude skills for music release metadata linting, rights passport packaging, provenance, splits, licensing readiness, and Suede intake prep. #opensource
   
 ## AI music processors
 
