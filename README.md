@@ -24,6 +24,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 - [YuE](https://map-yue.github.io) - A series of open-source foundation models designed for music generation. [#opensource](https://github.com/multimodal-art-projection/YuE)
 - [Lyria 3](https://gemini.google.com/music) - An AI music generator by Google.
 - [ACE-Step](https://acemusic.ai/) - An open-source model for generating music locally on Mac, AMD, Intel, and CUDA devices. [#opensource](https://github.com/ace-step/ACE-Step-1.5)
+- [RAVE](https://github.com/acids-ircam/RAVE) - A model for real-time neural audio synthesis and timbre transfer. #opensource
 
 ## AI music analysis
 
