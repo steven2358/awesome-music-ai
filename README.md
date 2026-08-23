@@ -34,6 +34,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [LANDR](https://www.landr.com/) - Samples, plugins, distribution and AI mastering engine.
 - [Moises](https://moises.ai/) - Remove vocals, separate instruments, master your tracks, and remix songs with the power of AI.
+- [AudioCraft](https://audiocraft.app/) - AI stem splitter for separating songs into vocals, drums, bass, and other instruments.
 
 ## Distribution
 
