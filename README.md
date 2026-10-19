@@ -34,6 +34,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [LANDR](https://www.landr.com/) - Samples, plugins, distribution and AI mastering engine.
 - [Moises](https://moises.ai/) - An AI app for separating songs into stems, detecting chords, transcribing lyrics, and changing tempo or pitch.
+- [Vocal Separator](https://vocalseparator.com/) - An AI vocal and four-stem separator with WAV downloads, practice loops, tempo and pitch controls, and an anonymous free tier with usage limits.
 
 ## AI in the DAW
 
