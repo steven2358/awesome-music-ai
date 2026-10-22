@@ -29,6 +29,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [Sonoteller](https://sonoteller.ai/) - Song analysis, lyrics analysis and music analysis.
 - [MuScriptor](https://github.com/muscriptor/muscriptor) - A model by Kyutai and Mirelo for transcribing multi-instrument recordings into MIDI and sheet music. #opensource
+- [Is This Song AI](https://isthissongai.app/) - A free checker that estimates whether a song was made with an AI music generator such as Suno or Udio, from a streaming link or an uploaded file, with a published accuracy test.
 
 ## AI music processors
 
