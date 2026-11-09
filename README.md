@@ -48,3 +48,4 @@ A curated list of AI tools for music composition, generation, and analysis.
 ## Distribution
 
 - [DistroKid](https://distrokid.com/) - Distribution app.
+- [Souna](https://www.souna.app/) - A streaming and discovery platform where AI music artists upload tracks, build audiences, and sell music.
