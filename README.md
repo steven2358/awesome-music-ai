@@ -24,6 +24,7 @@ A curated list of AI tools for music composition, generation, and analysis.
 - [Lyria 3](https://gemini.google.com/music) - An AI music generator by Google.
 - [ACE-Step](https://acemusic.ai/) - An open-source model for generating music locally on Mac, AMD, Intel, and CUDA devices. [#opensource](https://github.com/ace-step/ACE-Step-1.5)
 - [RAVE](https://github.com/acids-ircam/RAVE) - A model for real-time neural audio synthesis and timbre transfer. #opensource
+- [MusicGo](https://musicgo.net/) - Browser-based AI song maker with a personal music library and new song versions from saved lyrics or descriptions.
 
 ## AI music analysis
 
