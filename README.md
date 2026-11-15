@@ -49,3 +49,5 @@ A curated list of AI tools for music composition, generation, and analysis.
 
 - [DistroKid](https://distrokid.com/) - Distribution app.
 - [Souna](https://www.souna.app/) - A streaming and discovery platform where AI music artists upload tracks, build audiences, and sell music.
+
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and remote [MCP server](https://nostairsplease.com/mcp) covering small stages and booking contacts across all 50 US states, DC, and BC.
